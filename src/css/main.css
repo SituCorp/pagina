@@ -21,7 +21,7 @@ a{
 }
 
 a:hover{
-  color: hotpink;
+  color: blue;
 }
 
 body {
@@ -41,7 +41,7 @@ body::-webkit-scrollbar-track {
 }
 
 body::-webkit-scrollbar-thumb {
-  background-color: hotpink;
+  background-color: blue;
   outline: 1px solid slategrey;
 }
 
@@ -86,7 +86,7 @@ body::-webkit-scrollbar-thumb {
 
 .nav-bar-links li a:hover{
   cursor: pointer;
-  color: hotpink;
+  color: blue;
 }
 
 .nav-bar-toggle{
@@ -203,7 +203,7 @@ body::-webkit-scrollbar-thumb {
 
 .footer-links ul li a:hover{
   cursor: pointer;
-  color: hotpink;
+  color: blue;
 }
 
 .invite-link {
@@ -217,7 +217,7 @@ body::-webkit-scrollbar-thumb {
   cursor: pointer;
   border-radius: 10px;
   align-items: center;
-  background: hotpink;
+  background: blue;
   overflow: hidden;
   box-shadow: 20px black;
   transition: transform .5s ease;
