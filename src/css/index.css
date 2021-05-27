@@ -86,7 +86,7 @@ body {
 
 .main-content-buttons li a:hover{
   color: white;
-  background-color: hotpink;
+  background-color: blue;
 }
 
 .main-features {
@@ -183,7 +183,7 @@ body {
 
 .gallery-btn:hover{
   color: white;
-  background-color: hotpink;
+  background-color: blue;
 }
 
 .main-links {
@@ -232,7 +232,7 @@ body {
 .link-button {
   margin: auto;
   padding: 8px;
-  background-color: hotpink;
+  background-color: blue;
   border-radius: 10px;
   font-family: 'Poppins';
   text-align: center;
@@ -244,7 +244,7 @@ body {
 }
 
 .link-button:hover{
-  background-color: deeppink;
+  background-color: green;
 }
 
 @media (max-width: 810px){
