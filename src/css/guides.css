@@ -25,7 +25,7 @@ pre .comment{
 .top-header-container {
   position: relative;
   display: block;
-  background-color: hotpink;
+  background-color: #7289da;
   width: 100%;
 }
 
@@ -82,7 +82,7 @@ pre .comment{
 }
 
 .article-containers a{
-  color: hotpink;
+  color: #7289da;
 }
 
 .article-containers a:hover{
@@ -104,7 +104,7 @@ pre .comment{
   height: 300px!important;
   overflow: hidden;
   border-radius: 10px;
-  background-image: url(../images/banner-anischedule.jpg);
+  background-image: url(../images/economia.png);
   background-size: cover;
   background-position: 50% 50% !important;
 }
@@ -261,7 +261,7 @@ pre .comment{
 }
 
 .page-content p a{
-  color: hotpink;
+  color: #7289da;
 }
 
 .page-content p a:hover{
